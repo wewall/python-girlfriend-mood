@@ -302,4 +302,4 @@ if __name__=="__main__":
 > 我, 马上, 就要, 有, 女朋友, 了
 
 ### 6、代码地址
-    Github : [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
+Github : [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
